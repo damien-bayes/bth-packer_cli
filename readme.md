@@ -1,4 +1,4 @@
-# Baythium Packer CLI
+# Baythium Packer - CLI
 
 > **Initial Author:** Damien Bayes  
 > **Description:** Effectively archive your large-scale infrastructure data using our powerful and lightweight command-line tool  
