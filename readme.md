@@ -49,3 +49,4 @@ The reports make it easy for the Baythium team to handle errors, identify bugs, 
 ## References
 1. https://stedolan.github.io/jq
 2. https://www.dcode.fr/acronym-generator
+3. https://www.gnupg.org
