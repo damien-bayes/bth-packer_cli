@@ -27,6 +27,9 @@
 # Set a current working directory to the script location ()
 cd "$(dirname "$0")"
 
+# Exit if error appears
+set -e
+
 # set -o errexit
 # set -o pipefail
 # set -o nounset
